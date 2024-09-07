@@ -15,7 +15,7 @@ pnpm dev
 
 ```bash
 pnpm build
-pnpm start
+pnpm preview
 ```
 
 Open your browser and navigate to `http://localhost:3000/` to see the result.
